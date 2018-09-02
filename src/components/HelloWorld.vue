@@ -73,7 +73,8 @@ export default {
       msg: 'The resume of Gaoshiyi',
       result: 'qewqewq',
       test:'test',
-      hotfix:'hotfix'
+      hotfix: 'hotfix',
+      branchtest: 'branchtest'
     }
   }
 }
