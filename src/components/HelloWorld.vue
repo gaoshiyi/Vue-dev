@@ -70,7 +70,8 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'The resume of Gaoshiyi'
+      msg: 'The resume of Gaoshiyi',
+      result: 'qewqewq'
     }
   }
 }
