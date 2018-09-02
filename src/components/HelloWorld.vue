@@ -75,7 +75,8 @@ export default {
       test:'test',
       hotfix: 'hotfix',
       branchtest: 'branchtest',
-      branchtestTwo: 'two'
+      branchtestTwo: 'two',
+      three: 'three'
     }
   }
 }
