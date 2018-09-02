@@ -74,7 +74,8 @@ export default {
       result: 'qewqewq',
       test:'test',
       hotfix: 'hotfix',
-      branchtest: 'branchtest'
+      branchtest: 'branchtest',
+      branchtestTwo: 'two'
     }
   }
 }
