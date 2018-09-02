@@ -72,7 +72,8 @@ export default {
     return {
       msg: 'The resume of Gaoshiyi',
       result: 'qewqewq',
-      test:'test'
+      test:'test',
+      hotfix:'hotfix'
     }
   }
 }
